@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello There ✌️
 
-<!--
-**dvfeinblum/dvfeinblum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dave (they/them) and this is my swanky GitHub profile. I guess that's actually redundant.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I used to be a theoretical chemist
+    * Now I'm not (though if you wanna see what I used to do click [here](https://scholar.google.com/citations?user=Fs839DwAAAAJ&hl=en))
+* I like data, especially when it's big
+* I think security is neat
+* I [write](http://avagadbro.blogspot.com/) about stuff sometimes
+
+### None-Code Crap I Do
+
+* Play hockey
+* Think about plants
+* Look at plants
+* Read books about plants
+* Go hiking
