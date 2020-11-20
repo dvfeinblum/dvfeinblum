@@ -96,16 +96,13 @@ textarea {
    ========================================================================== */
 
 #blog-img-wrapper {
-    width: 1000px;
+    width: 100%;
 }
 #blog-rss {
-    width: 500px;
+    width: 100%;
 }
-#typing-test { /* lots of seemingly unnecessary stuff here because positioning is hard. */
-    width: 700px;
-    height: 400px;
-    border: 0;
-    display: block;
+#footer { /* lots of seemingly unnecessary stuff here because positioning is hard. */
+    width: 100%;
 }
 
 
