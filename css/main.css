@@ -100,11 +100,6 @@ textarea {
 }
 #blog-rss {
     width: 500px;
-    float: left;
-}
-#george {
-    width: 380;
-    float: right;
 }
 #typing-test { /* lots of seemingly unnecessary stuff here because positioning is hard. */
     width: 700px;
