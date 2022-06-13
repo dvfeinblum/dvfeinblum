@@ -1,0 +1,17 @@
+a:link {
+    color: hotpink;
+}
+
+a:visited {
+    color: rgb(195, 105, 255);
+}
+
+a:hover {
+    color: rgb(105, 210, 255);
+}
+
+body {
+    background-color: rgb(70, 70, 70);
+    color: rgb(224, 221, 221);
+    font-family: Verdana, sans-serif;
+}
