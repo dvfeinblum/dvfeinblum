@@ -1,6 +1,6 @@
 ## Hello There ✌️
 
-I'm Dave (they/them) and this is my swanky GitHub profile. I guess that's actually redundant.
+I'm Dave and this is my swanky GitHub profile. I guess that's actually redundant.
 
 ### About Me
 
@@ -11,7 +11,7 @@ I'm Dave (they/them) and this is my swanky GitHub profile. I guess that's actual
 
 ### None-Code Crap I Do
 
-* Play hockey
+* Wrench on my car/motorcycle
 * Make espresso
 * Think about plants
 * Look at plants
